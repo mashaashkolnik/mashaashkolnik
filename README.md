@@ -1,24 +1,14 @@
 
 <h3 align="center">Hi there</h3>
 
-I'm a **data scientist** specializing in **causal inference, experimentation, and machine learning**, currently pursuing an **MSc in Computer Science** at the Weizmann Institute of Science. With **4 years of experience**, I’ve worked on search and ranking systems, large-scale A/B experiments, ML pipelines, and causal impact studies that directly influenced product and business decisions. 
-
-My work sits at the intersection of research and production, designing robust statistical methods, building scalable data workflows, and collaborating closely with engineers, product managers, and researchers to ship reliable solutions.
-
-I'm particularly interested in building systems that combine machine learning, causal inference, and real-world impact, especially in large-scale platforms and healthcare.
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q2ZmV6bDF2ZzRhcjVzMm45ZzA5eDMxNWNubWdtMzFtb3JubHFuZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Q61LJj43H48z1FIK4X/giphy.gif" width="200"/>
-</p>
+I'm a **data scientist** specializing in **causal inference, experimentation, and machine learning**, currently pursuing an **MSc in Computer Science** at the Weizmann Institute of Science. With **4 years of experience**, I’ve worked on search and ranking systems, large-scale A/B experiments, ML pipelines, and causal impact studies that directly influenced product and business decisions. My work sits at the intersection of research and production, collaborating closely with engineers, product managers, and researchers to ship reliable solutions.
 
 Outside of work you’ll find me running, training, traveling and long-distance hiking (all proof [here](https://www.instagram.com/mashaashkolnik)), professionally cooking, and crafting. In general, I like building and structuring things.
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc5c3RwbWdqNW1jMzk0bnVhOWpwaGJmY24zanplMm9id3htZm1pZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f4bQadlNq3RvdSKx04/giphy.gif" width="200"/>
 </p>
-
 Always open to interesting collaborations, research projects, and data science opportunities!
-
 <h3 align="center">Favorite Languages</h3>
 <p align="center">
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
