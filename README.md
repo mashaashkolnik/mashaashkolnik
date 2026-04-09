@@ -3,7 +3,7 @@
 
 I'm a **data scientist** specializing in **causal inference, experimentation, and machine learning**, currently pursuing an **MSc in Computer Science** at the Weizmann Institute of Science. With **4 years of experience**, I’ve worked on search and ranking systems, large-scale A/B experiments, ML pipelines, and causal impact studies that directly influenced product and business decisions. My work sits at the intersection of research and production, collaborating closely with engineers, product managers, and researchers to ship reliable solutions.
 
-Outside of work you’ll find me running, training, traveling and long-distance hiking (all proof [here](https://www.instagram.com/mashaashkolnik)), professionally cooking, and crafting. In general, I like building and structuring things.
+Outside of work you’ll find me running, training, traveling and long-distance hiking, professionally cooking, and crafting. In general, I like building and structuring things.
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWc5c3RwbWdqNW1jMzk0bnVhOWpwaGJmY24zanplMm9id3htZm1pZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f4bQadlNq3RvdSKx04/giphy.gif" width="200"/>
